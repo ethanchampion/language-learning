@@ -1,0 +1,8 @@
+HOW TO RESTORE A BACKUP
+
+Step 1: Decide how long ago the system was damaged.
+Step 2: Check the backup directory for the latest working backup (Should be open in file explorer).
+Step 3: Copy the contents inside, may need to close Python Programs to avoid any errors occuring.
+Step 4: Delete all items inside the Memrize folder that are not folders. DO NOT DELETE THE BACKUP FOLDER.
+Step 5: Then simply paste all of the backup files into the folder and run the program.
+Step 6: Delete any backups that are corrupted.

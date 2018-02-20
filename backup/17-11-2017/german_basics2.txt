@@ -1,0 +1,1 @@
+glücklich,happy,traurig,sad,wütend,angry,müde,tired,krank,sick,der Hunger,the hunger,der Durst,the thirst,das Recht,the right,haben,to have,ich habe,I have,du hast,you have,habe ich?,have I?,ich bin glücklick,I am happy,du bist glücklich,you are happy,bist du glücklich?,are you happy?,have ich Recht?,am I right?,ich have Hunger,I am hungry,hast du Durst?,are you thirsty?
